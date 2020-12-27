@@ -3,6 +3,7 @@
 //! All the extra or helpful types that are not supported by Bevy or Glam are
 //! all contained here.
 
+#![doc(html_root_url = "https://docs.rs/bevy_tilemap_types/0.3.0")]
 #![no_implicit_prelude]
 // rustc / rustdoc
 #![warn(missing_doc_code_examples, missing_docs, private_doc_tests)]

@@ -55,6 +55,7 @@
 //! [`Dimension2`]: crate::dimension::Dimension2
 //! [`Dimension3`]: crate::dimension::Dimension3
 
+#![doc(html_root_url = "https://docs.rs/bevy_tilemap/0.3.0")]
 #![no_implicit_prelude]
 // rustc
 #![warn(missing_doc_code_examples, missing_docs, private_doc_tests)]
